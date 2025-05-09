@@ -1,0 +1,5 @@
+[
+  { "id": "tech", "name": "Technology" },
+  { "id": "health", "name": "Health" },
+  { "id": "travel", "name": "Travel" }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "The Rise of AI in Everyday Life",
+    "shortDescription": "How artificial intelligence is reshaping the way we work, shop, and interact.",
+    "body": "From virtual assistants like Siri and Alexa to recommendation engines on Netflix and Amazon, artificial intelligence is becoming deeply woven into our daily routines. Experts predict that within the next decade, AI will revolutionize industries such as healthcare, finance, and transportation, bringing both opportunities and ethical challenges.",
+    "createdAt": "2025-05-09T09:00:00Z",
+    "author": "Alice Johnson",
+    "category": "tech"
+  },
+  {
+    "id": 2,
+    "title": "Top 5 Cybersecurity Practices for Remote Work",
+    "shortDescription": "Protecting your digital workspace while working from home.",
+    "body": "With remote work becoming the norm, securing digital assets is more important than ever. Best practices include using strong, unique passwords, enabling two-factor authentication, avoiding public Wi-Fi for sensitive tasks, regularly updating software, and being cautious of phishing emails.",
+    "createdAt": "2025-05-08T14:20:00Z",
+    "author": "David Chen",
+    "category": "tech"
+  },
+  {
+    "id": 3,
+    "title": "Quantum Computing Explained",
+    "shortDescription": "What is quantum computing and why does it matter?",
+    "body": "Quantum computing leverages principles of quantum mechanics to perform complex calculations at unprecedented speeds. Unlike classical computers, quantum systems use qubits that can exist in multiple states simultaneously, offering breakthroughs in fields like cryptography, material science, and pharmaceutical research.",
+    "createdAt": "2025-05-07T10:45:00Z",
+    "author": "Leah Turner",
+    "category": "tech"
+  },
+  {
+    "id": 4,
+    "title": "The Evolution of Smartphones in the Last Decade",
+    "shortDescription": "How mobile technology transformed from basic devices to pocket-sized computers.",
+    "body": "In the last ten years, smartphones have evolved from simple communication tools to versatile devices handling photography, gaming, payments, and health tracking. Innovations such as foldable screens, advanced AI-driven cameras, and 5G connectivity continue to redefine mobile technology.",
+    "createdAt": "2025-05-06T12:30:00Z",
+    "author": "Samuel Grant",
+    "category": "tech"
+  },
+  {
+    "id": 5,
+    "title": "Augmented Reality in Retail: A Game Changer",
+    "shortDescription": "How AR is enhancing shopping experiences both online and offline.",
+    "body": "Retailers are increasingly integrating augmented reality to let customers visualize products before purchasing. From virtual furniture placement apps to digital fitting rooms, AR is bridging the gap between online and in-person shopping, improving engagement and reducing return rates.",
+    "createdAt": "2025-05-05T15:00:00Z",
+    "author": "Natalie Kim",
+    "category": "tech"
+  },
+  {
+    "id": 6,
+    "title": "5 Must-Have Productivity Apps in 2025",
+    "shortDescription": "Streamline your workflow with these top-rated digital tools.",
+    "body": "This year’s standout productivity apps include Notion for organization, Todoist for task management, Grammarly for writing assistance, Zoom for meetings, and Trello for project tracking. Each offers unique features tailored for professionals and students alike.",
+    "createdAt": "2025-05-04T17:20:00Z",
+    "author": "Isaac Reed",
+    "category": "tech"
+  },
+  {
+    "id": 7,
+    "title": "Blockchain Beyond Cryptocurrency",
+    "shortDescription": "Exploring blockchain’s applications outside of Bitcoin.",
+    "body": "Blockchain technology underpins decentralized applications in supply chain management, digital identity, and voting systems. Its transparent, tamper-proof nature ensures data integrity and trust, attracting industries seeking secure, efficient solutions for data management.",
+    "createdAt": "2025-05-03T11:10:00Z",
+    "author": "Emma Lewis",
+    "category": "tech"
+  },
+  {
+    "id": 8,
+    "title": "How 5G is Shaping Smart Cities",
+    "shortDescription": "The role of next-gen networks in urban innovation.",
+    "body": "5G networks provide the speed and capacity necessary to connect millions of devices in a smart city. From traffic systems to public safety and environmental monitoring, 5G enables real-time data collection and analysis, making cities more efficient and livable.",
+    "createdAt": "2025-05-02T10:30:00Z",
+    "author": "Marcus Shaw",
+    "category": "tech"
+  },
+  {
+    "id": 9,
+    "title": "The Future of Cloud Gaming",
+    "shortDescription": "Why game streaming services might replace consoles.",
+    "body": "Services like Xbox Cloud Gaming and NVIDIA GeForce Now are redefining the gaming landscape. By offloading game processing to cloud servers, players can access high-end games on any device with a good internet connection, making hardware limitations a thing of the past.",
+    "createdAt": "2025-05-01T16:00:00Z",
+    "author": "Julia Blake",
+    "category": "tech"
+  },
+  {
+    "id": 10,
+    "title": "Ethical AI: Why It Matters",
+    "shortDescription": "Addressing the moral implications of intelligent systems.",
+    "body": "As AI systems become more autonomous, ethical considerations surrounding privacy, decision-making, and accountability are gaining attention. Developers and policymakers are working together to establish guidelines ensuring AI benefits humanity while avoiding harm and bias.",
+    "createdAt": "2025-04-30T13:45:00Z",
+    "author": "Henry Davis",
+    "category": "tech"
+  },
+  {
+    "id": 11,
+    "title": "The Importance of Mental Health Days",
+    "shortDescription": "Why taking a day off for your mind matters.",
+    "body": "Employers and psychologists increasingly recognize the value of mental health days. Short breaks from work to focus on relaxation, hobbies, or therapy help reduce burnout and improve long-term productivity and wellbeing.",
+    "createdAt": "2025-05-09T11:00:00Z",
+    "author": "Sophie Carter",
+    "category": "health"
+  },
+  {
+    "id": 12,
+    "title": "The Mediterranean Diet: A Modern Health Staple",
+    "shortDescription": "Why this traditional eating style remains a top choice.",
+    "body": "Rich in vegetables, whole grains, olive oil, and fish, the Mediterranean diet has been linked to improved heart health, weight management, and longevity. Its emphasis on fresh, natural foods and communal meals makes it both healthy and sustainable.",
+    "createdAt": "2025-05-08T09:30:00Z",
+    "author": "Amelia Brooks",
+    "category": "health"
+  },
+  {
+    "id": 13,
+    "title": "Top 5 Benefits of Daily Meditation",
+    "shortDescription": "How mindfulness can improve your physical and mental health.",
+    "body": "Regular meditation reduces stress, enhances focus, lowers blood pressure, improves sleep, and fosters emotional resilience. Apps like Headspace and Calm have made mindfulness practices accessible to everyone.",
+    "createdAt": "2025-05-07T13:00:00Z",
+    "author": "Liam Fisher",
+    "category": "health"
+  },
+  {
+    "id": 14,
+    "title": "Understanding Sleep Cycles",
+    "shortDescription": "How sleep patterns affect your health.",
+    "body": "Sleep consists of multiple cycles including REM and non-REM phases. Disruptions to these cycles can impact memory, mood, and immune function. Experts recommend 7-9 hours of sleep, maintaining consistent bedtimes, and limiting screen time before bed.",
+    "createdAt": "2025-05-06T18:15:00Z",
+    "author": "Chloe Walsh",
+    "category": "health"
+  },
+  {
+    "id": 15,
+    "title": "The Benefits of Cold Showers",
+    "shortDescription": "Why people are embracing chilly mornings.",
+    "body": "Cold showers can improve circulation, boost mood, enhance skin and hair health, and increase resilience to stress. Many athletes and wellness enthusiasts incorporate cold water therapy as part of their recovery routines.",
+    "createdAt": "2025-05-05T10:10:00Z",
+    "author": "Ethan Reed",
+    "category": "health"
+  },
+  {
+    "id": 16,
+    "title": "Plant-Based Proteins You Should Try",
+    "shortDescription": "Healthy, sustainable alternatives to meat.",
+    "body": "Options like lentils, chickpeas, quinoa, tofu, and tempeh provide essential amino acids without the environmental impact of meat. Incorporating plant-based proteins supports heart health and reduces carbon footprints.",
+    "createdAt": "2025-05-04T14:40:00Z",
+    "author": "Zara Morgan",
+    "category": "health"
+  },
+  {
+    "id": 17,
+    "title": "The Science Behind Habit Formation",
+    "shortDescription": "How long does it really take to form a new habit?",
+    "body": "Contrary to the popular 21-day myth, research suggests it takes about 66 days to form a new habit. Consistency, environment, and personal motivation play key roles in successfully adopting lasting changes.",
+    "createdAt": "2025-05-03T09:00:00Z",
+    "author": "Nathan Cole",
+    "category": "health"
+  },
+  {
+    "id": 18,
+    "title": "Gut Health and Its Impact on Mood",
+    "shortDescription": "How your microbiome affects mental wellness.",
+    "body": "The gut-brain connection means imbalances in gut bacteria can influence anxiety, depression, and stress levels. Probiotics, fiber-rich foods, and fermented products help maintain a healthy gut environment.",
+    "createdAt": "2025-05-02T13:30:00Z",
+    "author": "Ava James",
+    "category": "health"
+  },
+  {
+    "id": 19,
+    "title": "The Truth About Multivitamins",
+    "shortDescription": "Do you really need that daily pill?",
+    "body": "While multivitamins can fill nutritional gaps, experts recommend prioritizing whole foods for essential nutrients. Supplements are most useful for those with specific deficiencies or dietary restrictions.",
+    "createdAt": "2025-05-01T16:45:00Z",
+    "author": "Owen Gray",
+    "category": "health"
+  },
+  {
+    "id": 20,
+    "title": "Stretching: An Underrated Health Habit",
+    "shortDescription": "Why daily stretches improve longevity.",
+    "body": "Stretching enhances flexibility, posture, and circulation while reducing injury risk. Incorporating 5-10 minutes of stretching into your morning or bedtime routine promotes relaxation and physical health.",
+    "createdAt": "2025-04-30T11:20:00Z",
+    "author": "Ella Bennett",
+    "category": "health"
+  },
+  {
+    "id": 21,
+    "title": "Top 10 Destinations for 2025",
+    "shortDescription": "Where to travel this year according to experts.",
+    "body": "This year's top travel destinations include Kyoto, Cape Town, Vancouver, Dubrovnik, and Patagonia. Travelers are seeking spots known for natural beauty, rich culture, and sustainable tourism initiatives.",
+    "createdAt": "2025-05-09T09:00:00Z",
+    "author": "Zara Mitchell",
+    "category": "travel"
+  },
+  {
+    "id": 22,
+    "title": "How to Travel Sustainably",
+    "shortDescription": "Simple ways to reduce your environmental footprint.",
+    "body": "Opt for eco-friendly accommodations, minimize single-use plastics, support local businesses, travel light, and offset your carbon emissions. Conscious travel choices help protect destinations for future generations.",
+    "createdAt": "2025-05-08T11:45:00Z",
+    "author": "Oliver West",
+    "category": "travel"
+  },
+  {
+    "id": 23,
+    "title": "Solo Travel Tips for Beginners",
+    "shortDescription": "Everything you need to know before going it alone.",
+    "body": "Research destinations thoroughly, stay connected with loved ones, book accommodations in safe areas, trust your instincts, and pack light. Solo travel builds confidence and offers unique experiences.",
+    "createdAt": "2025-05-07T13:30:00Z",
+    "author": "Isla Moore",
+    "category": "travel"
+  },
+  {
+    "id": 24,
+    "title": "Best Hiking Trails in Europe",
+    "shortDescription": "Unmissable hikes for adventure seekers.",
+    "body": "Highlights include the Tour du Mont Blanc, Laugavegur Trail in Iceland, and the Camino de Santiago in Spain. Each offers breathtaking scenery and memorable cultural experiences.",
+    "createdAt": "2025-05-06T10:50:00Z",
+    "author": "Luke Carter",
+    "category": "travel"
+  },
+  {
+    "id": 25,
+    "title": "What to Pack for a Backpacking Trip",
+    "shortDescription": "Essential gear for the modern traveler.",
+    "body": "Key items include a durable backpack, multi-purpose clothing, portable charger, first-aid kit, travel insurance documents, reusable water bottle, and a lightweight sleeping bag or liner.",
+    "createdAt": "2025-05-05T15:00:00Z",
+    "author": "Ella Greene",
+    "category": "travel"
+  },
+  {
+    "id": 26,
+    "title": "Cultural Etiquette Around the World",
+    "shortDescription": "Respect local customs while traveling.",
+    "body": "Learn greetings, dress codes, and dining etiquette for each country you visit. Simple gestures like removing shoes indoors or avoiding certain hand signals can go a long way in showing respect.",
+    "createdAt": "2025-05-04T12:15:00Z",
+    "author": "Leo Bennett",
+    "category": "travel"
+  },
+  {
+    "id": 27,
+    "title": "How to Find Cheap Flights in 2025",
+    "shortDescription": "Smart hacks for saving money on airfare.",
+    "body": "Use fare comparison tools, book flights mid-week, clear cookies or use incognito mode, set price alerts, and be flexible with your dates and nearby airports to score the best deals.",
+    "createdAt": "2025-05-03T09:20:00Z",
+    "author": "Mia Collins",
+    "category": "travel"
+  },
+  {
+    "id": 28,
+    "title": "A Guide to Digital Nomad Visas",
+    "shortDescription": "Where remote workers can legally live and work.",
+    "body": "Countries like Portugal, Estonia, and Costa Rica offer special visas for digital nomads, allowing them to work remotely while experiencing new cultures, typically with minimum income requirements.",
+    "createdAt": "2025-05-02T14:10:00Z",
+    "author": "Ethan Ward",
+    "category": "travel"
+  },
+  {
+    "id": 29,
+    "title": "Must-Try Street Foods Around the World",
+    "shortDescription": "Savor authentic flavors on the go.",
+    "body": "Experience pad Thai in Bangkok, tacos al pastor in Mexico City, crêpes in Paris, banh mi in Vietnam, and currywurst in Berlin. Street food is an affordable way to sample local cuisine.",
+    "createdAt": "2025-05-01T11:40:00Z",
+    "author": "Ava Simpson",
+    "category": "travel"
+  },
+  {
+    "id": 30,
+    "title": "How to Stay Safe While Traveling Abroad",
+    "shortDescription": "Essential safety tips for global explorers.",
+    "body": "Research local laws, keep copies of travel documents, avoid displaying valuables, stay aware in crowded places, and have emergency contacts saved. Trust your instincts and prioritize health and safety.",
+    "createdAt": "2025-04-30T17:00:00Z",
+    "author": "Oscar Knight",
+    "category": "travel"
+  }
+]
