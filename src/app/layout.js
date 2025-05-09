@@ -1,11 +1,5 @@
-// import { Poppins } from "next/font/google";
 import "./globals.css";
 import Link from "next/link";
-
-// const poppins = Poppins({
-//   subsets: ["latin"],
-//   weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
-// })
 
 export const metadata = {
   title: "Next Lab1",
@@ -14,19 +8,19 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" >
+    <html lang="en" className="font-[poppins]">
       <body>
         <header>
           <nav className="p-6">
-            <ul className="flex gap-6">
+            <ul className="flex gap-6 ">
               <li className="mr-auto">
                 <Link href="/" className="text-2xl font-bold">Next Lab1</Link>
               </li>
-              <li>
-                <Link href="/" className="text-xl after:content-[''] hover:after:w-full after:w-0 after:h-[0.1rem] after:bg-black after:block after:transition-all after:rounded">Home</Link>
+              <li className="link-parent">
+                <Link href="/" className="text-xl animate-link after:bg-base-content">Home</Link>
               </li>
-              <li>
-                <Link href="/posts" className="text-xl after:content-[''] hover:after:w-full after:w-0 after:h-[0.1rem] after:bg-black after:block after:transition-all after:rounded">Posts</Link>
+              <li className="link-parent">
+                <Link href="/posts" className="text-xl animate-link after:bg-base-content">Posts</Link>
               </li>
             </ul>
           </nav>

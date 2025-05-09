@@ -3,6 +3,9 @@ import categories from '../../../../assets/data/categories.json'
 export default async function page({ params }) {
     const {id} = await params
     const post = posts.find((post) => post.id === +id)
+    if(!post) {
+        throw new Error('404: Post not found')
+    }
     const category = categories.find((cat) => cat.id === post.category)
     return (
         <div className='min-h-[calc(100vh-9.5rem)] py-6 px-18 flex flex-col justify-center gap-4'>
