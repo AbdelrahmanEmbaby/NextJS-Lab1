@@ -3,15 +3,16 @@
 @plugin "daisyui" {
   themes: light --default, dark --prefersdark;
 }
-.animate-link::after {
-  content: "";
-  background-color: currentColor;
-  display: block;
-  height: 0.1rem;
-  width: 0;
-  transition: width 0.3s ease;
+
+.animate-link {
+  display: inline;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 0.1rem;
+  transition: background-size 0.3s ease;
 }
 
-.link-parent:hover .animate-link::after {
-  width: 100%;
+.link-parent:hover .animate-link {
+  background-size: 100% 0.1rem;
 }
